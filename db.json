@@ -1,0 +1,361 @@
+{
+    "result": {
+    "meta": {
+    "version": "1.1.251",
+    "data_key": "results"
+    },
+    "results": {
+    "new_listings_vitality": {
+    "total": 230,
+    "count": 4,
+    "offset": 0,
+    "properties": [
+    {
+    "property_id": "5927889292",
+    "listing_id": "2938713323",
+    "last_sold_price": 98500,
+    "list_price_min": null,
+    "list_price_max": null,
+    "list_price": 165000,
+    "href": "https://www.realtor.com/realestateandhomes-detail/1997-Dixie-Belle-Dr_Orlando_FL_32812_M59278-89292",
+    "permalink": "1997-Dixie-Belle-Dr_Orlando_FL_32812_M59278-89292",
+    "list_date": "2022-01-06T23:26:36Z",
+    "last_update_date": "2022-01-06T18:26:19Z",
+    "status": "for_sale",
+    "description": {
+    "beds_min": null,
+    "beds_max": null,
+    "beds": 3,
+    "baths_min": null,
+    "baths_max": null,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "garage": null,
+    "sqft_min": null,
+    "sqft_max": null,
+    "sqft": 1192,
+    "lot_sqft": 11761,
+    "type": "condos",
+    "sub_type": "condo",
+    "year_built": 1994,
+    "sold_price": 98500
+    },
+    "location": {
+    "address": {
+    "line": "1997 Dixie Belle Dr Unit 1997E",
+    "street_number": "1997",
+    "street_name": "Dixie Belle",
+    "street_suffix": "Dr",
+    "unit": "Unit 1997E",
+    "city": "Orlando",
+    "state_code": "FL",
+    "postal_code": "32812",
+    "country": "USA",
+    "state": "Florida",
+    "coordinate": {
+    "lat": 28.521255,
+    "lon": -81.314
+    }
+    }
+    },
+    "flags": {
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_excludes_land": null,
+    "is_subdivision": null,
+    "is_plan": null
+    },
+    "photos": [
+    {
+    "href": "https://ap.rdcpix.com/cff74da682dc004a4d30bf72b3019508l-m137256745s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/cff74da682dc004a4d30bf72b3019508l-m853900964s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/cff74da682dc004a4d30bf72b3019508l-m1111269398s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/cff74da682dc004a4d30bf72b3019508l-m945243479s.jpg"
+    }
+    ],
+    "primary_photo": {
+    "href": "https://ap.rdcpix.com/cff74da682dc004a4d30bf72b3019508l-m137256745s.jpg"
+    },
+    "source": {
+    "name": "StellarMLS",
+    "type": "mls"
+    }
+    },
+    {
+    "property_id": "6888011115",
+    "listing_id": "2938710206",
+    "last_sold_price": 480000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "list_price": 735000,
+    "href": "https://www.realtor.com/realestateandhomes-detail/8243-Lynch-Dr_Orlando_FL_32835_M68880-11115",
+    "permalink": "8243-Lynch-Dr_Orlando_FL_32835_M68880-11115",
+    "list_date": "2022-01-06T21:59:22Z",
+    "last_update_date": "2022-01-06T16:56:41Z",
+    "status": "for_sale",
+    "description": {
+    "beds_min": null,
+    "beds_max": null,
+    "beds": 4,
+    "baths_min": null,
+    "baths_max": null,
+    "baths": 4,
+    "baths_full": 4,
+    "baths_half": null,
+    "garage": 4,
+    "sqft_min": null,
+    "sqft_max": null,
+    "sqft": 3600,
+    "lot_sqft": 15682,
+    "type": "single_family",
+    "sub_type": null,
+    "year_built": 2003,
+    "sold_price": 480000
+    },
+    "location": {
+    "address": {
+    "line": "8243 Lynch Dr",
+    "street_number": "8243",
+    "street_name": "Lynch",
+    "street_suffix": "Dr",
+    "unit": null,
+    "city": "Orlando",
+    "state_code": "FL",
+    "postal_code": "32835",
+    "country": "USA",
+    "state": "Florida",
+    "coordinate": {
+    "lat": 28.505265,
+    "lon": -81.507083
+    }
+    }
+    },
+    "flags": {
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_excludes_land": null,
+    "is_subdivision": null,
+    "is_plan": null
+    },
+    "photos": [
+    {
+    "href": "https://ap.rdcpix.com/911b138615df83630049f10abba0b469l-m1129326014s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/911b138615df83630049f10abba0b469l-m2617392847s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/911b138615df83630049f10abba0b469l-m138867216s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/911b138615df83630049f10abba0b469l-m1346357005s.jpg"
+    }
+    ],
+    "primary_photo": {
+    "href": "https://ap.rdcpix.com/911b138615df83630049f10abba0b469l-m1129326014s.jpg"
+    },
+    "source": {
+    "name": "StellarMLS",
+    "type": "mls"
+    }
+    },
+    {
+    "property_id": "5497054003",
+    "listing_id": "2938708627",
+    "last_sold_price": 235000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "list_price": 385000,
+    "href": "https://www.realtor.com/realestateandhomes-detail/2618-Timberlake-Dr_Orlando_FL_32806_M54970-54003",
+    "permalink": "2618-Timberlake-Dr_Orlando_FL_32806_M54970-54003",
+    "list_date": "2022-01-06T21:26:59Z",
+    "last_update_date": "2022-01-06T16:53:01Z",
+    "status": "for_sale",
+    "description": {
+    "beds_min": null,
+    "beds_max": null,
+    "beds": 3,
+    "baths_min": null,
+    "baths_max": null,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "garage": 2,
+    "sqft_min": null,
+    "sqft_max": null,
+    "sqft": 1640,
+    "lot_sqft": 13068,
+    "type": "single_family",
+    "sub_type": null,
+    "year_built": 1964,
+    "sold_price": 235000
+    },
+    "location": {
+    "address": {
+    "line": "2618 Timberlake Dr",
+    "street_number": "2618",
+    "street_name": "Timberlake",
+    "street_suffix": "Dr",
+    "unit": null,
+    "city": "Orlando",
+    "state_code": "FL",
+    "postal_code": "32806",
+    "country": "USA",
+    "state": "Florida",
+    "coordinate": {
+    "lat": 28.499712,
+    "lon": -81.348024
+    }
+    }
+    },
+    "flags": {
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_excludes_land": null,
+    "is_subdivision": null,
+    "is_plan": null
+    },
+    "photos": [
+    {
+    "href": "https://ap.rdcpix.com/440251d5ffae7a683a15de824c84f714l-m3187041578s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/440251d5ffae7a683a15de824c84f714l-m293571487s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/440251d5ffae7a683a15de824c84f714l-m1828399524s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/440251d5ffae7a683a15de824c84f714l-m2514674697s.jpg"
+    }
+    ],
+    "primary_photo": {
+    "href": "https://ap.rdcpix.com/440251d5ffae7a683a15de824c84f714l-m3187041578s.jpg"
+    },
+    "source": {
+    "name": "StellarMLS",
+    "type": "mls"
+    }
+    },
+    {
+    "property_id": "5508609594",
+    "listing_id": "2938708194",
+    "last_sold_price": 164200,
+    "list_price_min": null,
+    "list_price_max": null,
+    "list_price": 260000,
+    "href": "https://www.realtor.com/realestateandhomes-detail/25-N-Alder-Dr_Orlando_FL_32807_M55086-09594",
+    "permalink": "25-N-Alder-Dr_Orlando_FL_32807_M55086-09594",
+    "list_date": "2022-01-06T21:19:21Z",
+    "last_update_date": "2022-01-06T16:17:05Z",
+    "status": "for_sale",
+    "description": {
+    "beds_min": null,
+    "beds_max": null,
+    "beds": 3,
+    "baths_min": null,
+    "baths_max": null,
+    "baths": 1,
+    "baths_full": 1,
+    "baths_half": null,
+    "garage": null,
+    "sqft_min": null,
+    "sqft_max": null,
+    "sqft": 1068,
+    "lot_sqft": 9148,
+    "type": "single_family",
+    "sub_type": null,
+    "year_built": 1954,
+    "sold_price": 164200
+    },
+    "location": {
+    "address": {
+    "line": "25 N Alder Dr",
+    "street_number": "25",
+    "street_name": "Alder",
+    "street_suffix": "Dr",
+    "unit": null,
+    "city": "Orlando",
+    "state_code": "FL",
+    "postal_code": "32807",
+    "country": "USA",
+    "state": "Florida",
+    "coordinate": {
+    "lat": 28.54712,
+    "lon": -81.298856
+    }
+    }
+    },
+    "flags": {
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_excludes_land": null,
+    "is_subdivision": null,
+    "is_plan": null
+    },
+    "photos": [
+    {
+    "href": "https://ap.rdcpix.com/6226914e72ac96b9d8640b21c535b219l-m3907868977s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/6226914e72ac96b9d8640b21c535b219l-m637359961s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/6226914e72ac96b9d8640b21c535b219l-m2273852701s.jpg"
+    },
+    {
+    "href": "https://ap.rdcpix.com/6226914e72ac96b9d8640b21c535b219l-m1974478969s.jpg"
+    }
+    ],
+    "primary_photo": {
+    "href": "https://ap.rdcpix.com/6226914e72ac96b9d8640b21c535b219l-m3907868977s.jpg"
+    },
+    "source": {
+    "name": "StellarMLS",
+    "type": "mls"
+    }
+    }
+    ]
+    }
+    }
+    },
+    "location": {
+    "state_code": "FL",
+    "city": "Orlando"
+    }
+    }
